@@ -1,13 +1,14 @@
 ## Assignment 2 - UFO
+### Author : Martin Høigaard Rasmussen
 
 This is my solution for assignment 2.
 
-[Assignment - Pdf](Assignment/Assignment%202.pdf)
+[Assignment - pdf](Assignment/Assignment%202.pdf)
 
 
-[Part1 - Pdf](Pdf/Assignment%202%20-%20Task%201.pdf)
+[Part1 - pdf](Pdf/Assignment%202%20-%20Task%201.pdf)
 
-[Part2 - Pdf](Pdf/Assignment%202%20-%20Task%202.pdf)
+[Part2 - pdf](Pdf/Assignment%202%20-%20Task%202.pdf)
 
 [Part1 - code](code/part1.tex)
 
