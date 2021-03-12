@@ -6,9 +6,9 @@ This is my solution for assignment 2.
 [Assignment - pdf](Assignment/Assignment%202.pdf)
 
 
-[Part1 - pdf](Pdf/Assignment%202%20-%20Task%201.pdf)
+[Part1 - pdf](Pdf/Assignment%202%20-%20Task1.pdf)
 
-[Part2 - pdf](Pdf/Assignment%202%20-%20Task%202.pdf)
+[Part2 - pdf](Pdf/Assignment%202%20-%20Task2.pdf)
 
 [Part1 - code](Code/part1.tex)
 
