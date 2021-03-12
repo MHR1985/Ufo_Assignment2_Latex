@@ -2,7 +2,7 @@
 
 This is my solution for assignment 2.
 
-[Assignment - Pdf](Assignment/Assignment 2.pdf)
+[Assignment - Pdf](Assignment/Assignment%202.pdf)
 
 
 [Part1 - Pdf](Pdf/Assignment%202%20-%20Task%201.pdf)
