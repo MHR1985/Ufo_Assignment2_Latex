@@ -10,8 +10,8 @@ This is my solution for assignment 2.
 
 [Part2 - pdf](Pdf/Assignment%202%20-%20Task%202.pdf)
 
-[Part1 - code](code/part1.tex)
+[Part1 - code](Code/part1.tex)
 
-[Part2 - code](code/part2.tex)
+[Part2 - code](Code/part2.tex)
 
-[Bibliography - code](code/references.bib)
+[Bibliography - code](Code/references.bib)
